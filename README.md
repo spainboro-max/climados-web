@@ -14,8 +14,8 @@ index.html
 assets/
   cli-1.png       # Hero
   cli-2.png       # Sección "Nosotros"
-  cli-3.png       # Logotipo (también usado en navbar y footer)
-  logo-icon.png   # Recorte del icono (sin uso actualmente)
+  cli-3.png       # Logotipo completo
+  logo-icon.png   # Icono recortado (navbar / favicon)
 ```
 
 ## Desarrollo local
